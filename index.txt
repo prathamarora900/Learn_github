@@ -1,0 +1,6 @@
+Git is generally a vcr(ie version control system).Through that multiple user can work in that
+1.check git = git --version
+2.Set username= git config --global user.name "--"
+3.Set email = git config --global user.email "--"
+4.Edit config information = git config --global --edit   (After that vim text is open in your bash.)Edit  all Detail and exit press Esc then type :q!
+5. create a respo= git init 
