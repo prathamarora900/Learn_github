@@ -3,4 +3,11 @@ Git is generally a vcr(ie version control system).Through that multiple user can
 2.Set username= git config --global user.name "--"
 3.Set email = git config --global user.email "--"
 4.Edit config information = git config --global --edit   (After that vim text is open in your bash.)Edit  all Detail and exit press Esc then type :q!
-5. create a respo= git init 
+5. create a respo= git init  (it will generally create a git file ie(.git))
+
+6.git status (it will tell status )
+//staging area=before adding to respo
+
+7. git add (it is used to add file in a staging area)   git add .
+8. git commit =used to add files in repo   -m (for message)=" "
+9. git log= count total no of commit
